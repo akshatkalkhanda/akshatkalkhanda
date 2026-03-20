@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kubernetes, Jenkins, Git/GitLab, Ansible
 - 💞️ I’m looking to collaborate on Ansible, Jenkins
 - 📫 How to reach me @akshatkalkhanda@gmail.com
-- 🌐 Visit akshat.kalkhanda.in
+- 🌐 Visit @akshat.kalkhanda.in
   
 
 <!---
